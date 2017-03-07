@@ -2,7 +2,7 @@
 
 > A dark theme for Google Chrome
 
-![Screenshot](./Screenshot/screen1.jpg)
+![Screenshot](./Screenshots/screen1.jpg)
 
 ## Install
 
