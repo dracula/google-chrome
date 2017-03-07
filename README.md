@@ -6,7 +6,7 @@
 
 ## Install
 
-To instruction on how to install a Google Chrome theme, please refere to [this link](https://support.google.com/chrome/answer/148695?hl=en-GB)
+For instruction on how to install a Google Chrome theme, please refere to [this link](https://support.google.com/chrome/answer/148695?hl=en-GB)
 
 ## Team
 
