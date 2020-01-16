@@ -12,7 +12,7 @@ If you wish to install it in your browser using the Google Chrome store, please 
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/orgs/dracula/people)
 
 [![Nick](https://avatars2.githubusercontent.com/u/9289704?v=3&s=70)](https://github.com/ukarim) |
 --- |
