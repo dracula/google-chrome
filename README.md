@@ -1,14 +1,12 @@
-# Dracula for [Google Chrome](https://chrome.google.com/webstore/detail/dracula-chrome-theme/gfapcejdoghpoidkfodoiiffaaibpaem?utm_source=chrome-ntp-icon)
+# Dracula for [Google Chrome](https://chrome.google.com/webstore/detail/dracula-chrome-theme-dark/gfapcejdoghpoidkfodoiiffaaibpaem)
 
-> A dark theme for [Google Chrome](https://chrome.google.com/webstore/detail/dracula-chrome-theme/gfapcejdoghpoidkfodoiiffaaibpaem?utm_source=chrome-ntp-icon).
+> A dark theme for [Google Chrome](https://chrome.google.com/webstore/detail/dracula-chrome-theme-dark/gfapcejdoghpoidkfodoiiffaaibpaem).
 
-![Screenshot](./Screenshots/screen1.jpg)
+![Screenshot](./screenshot.png)
 
 ## Install
 
 All instructions can be found at [draculatheme.com/chrome](https://draculatheme.com/chrome).
-
-If you wish to install it in your browser using the Google Chrome store, please follow [this link](https://chrome.google.com/webstore/detail/dracula-chrome-theme/gfapcejdoghpoidkfodoiiffaaibpaem?utm_source=chrome-ntp-icon) 
 
 ## Team
 
