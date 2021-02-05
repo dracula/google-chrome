@@ -20,6 +20,7 @@
       "tab_background_text_inactive": [98, 114, 164],
       "tab_background_text_incognito": [98, 114, 164],
       "tab_background_text_incognito_inactive": [98, 114, 164],
+      "tab_line": [255, 121, 198],
       "tab_text": [248, 248, 242],
       "toolbar": [40, 42, 54],
       "toolbar_button_icon": [248, 248, 242],
