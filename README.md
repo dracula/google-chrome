@@ -4,6 +4,10 @@
 
 ![Screenshot](./screenshot.png)
 
+With currently active tab highlighting:
+
+![Screenshot-gif](./screenshot.gif)
+
 ## Install
 
 All instructions can be found at [draculatheme.com/chrome](https://draculatheme.com/chrome).
