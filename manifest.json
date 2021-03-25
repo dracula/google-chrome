@@ -2,7 +2,7 @@
   "description": "Chrome Dracula scheme color theme",
   "manifest_version": 2,
   "name": "Dracula Chrome Theme - Dark and Minimal",
-  "version": "2.1",
+  "version": "2.3",
   "icons": {
     "16": "images/icon16.png",
     "48": "images/icon48.png",
@@ -20,7 +20,6 @@
       "tab_background_text_incognito": [98, 114, 164],
       "tab_background_text_incognito_inactive": [98, 114, 164],
       "tab_text": [248, 248, 242],
-      "toolbar": [40, 42, 54],
       "toolbar_button_icon": [248, 248, 242],
       "omnibox_text": [ 248, 248, 242 ],
       "omnibox_background": [ 68, 71, 90 ],
