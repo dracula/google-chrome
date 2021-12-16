@@ -1,7 +1,7 @@
 {
-  "description": "Chrome Dracula scheme color theme",
   "manifest_version": 3,
-  "name": "Dracula Chrome Theme - Dark and Minimal",
+  "name": "Dracula Chrome Theme",
+  "description": "A dark and minimal color theme for Google Chrome.",
   "version": "3.0",
   "icons": {
     "16": "images/icon16.png",

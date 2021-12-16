@@ -1,5 +1,2 @@
-.idea/deployment.xml
-.idea/dracula-chrome.iml
-.idea/modules.xml
-.idea/vcs.xml
-.idea/workspace.xml
+.DS_Store
+/.idea/
