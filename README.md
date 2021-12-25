@@ -4,10 +4,6 @@
 
 ![Screenshot](./screenshot.png)
 
-With currently active tab highlighting:
-
-![Screenshot-gif](./screenshot.gif)
-
 ## Install
 
 All instructions can be found at [draculatheme.com/chrome](https://draculatheme.com/chrome).
@@ -19,6 +15,9 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 [![Nick](https://avatars2.githubusercontent.com/u/9289704?v=3&s=70)](https://github.com/ukarim) |
 --- |
 [Nick](https://github.com/nickimola)|
+
+
+
 
 ## License
 
