@@ -10,8 +10,8 @@
   },
   "theme": {
     "colors": {
-      "frame": [33, 34, 44],
-      "frame_inactive": [33, 34, 44],
+      "frame": [23, 24, 30],
+      "frame_inactive": [23, 24, 30],
       "frame_incognito": [25, 26, 33],
       "frame_incognito_inactive": [25, 26, 33],
       "bookmark_text": [248, 248, 242],
