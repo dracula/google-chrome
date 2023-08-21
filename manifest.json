@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Dracula Chrome Theme",
   "description": "A dark and minimal color theme for Google Chrome.",
-  "version": "3.0",
+  "version": "3.2",
   "icons": {
     "16": "images/icon16.png",
     "48": "images/icon48.png",
@@ -29,7 +29,8 @@
       "ntp_text": [248, 248, 242]
     },
     "images": {
-      "theme_toolbar": "images/theme_toolbar.png"
+      "theme_toolbar": "images/theme_toolbar_transparent.png",
+      "theme_tab_background": "images/theme_toolbar.png"
     }
   }
 }
