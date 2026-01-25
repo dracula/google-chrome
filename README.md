@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/chrome](https://draculatheme.com/chrome).
+All instructions can be found at [draculatheme.com/google-chrome](https://draculatheme.com/google-chrome).
 
 ## Team
 
