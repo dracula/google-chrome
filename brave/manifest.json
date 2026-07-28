@@ -1,0 +1,36 @@
+{
+  "manifest_version": 3,
+  "name": "Dracula Brave Theme",
+  "description": "A dark and minimal color theme for Brave with accessible vertical tabs.",
+  "version": "3.2",
+  "icons": {
+    "16": "images/icon16.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  },
+  "theme": {
+    "colors": {
+      "frame": [23, 24, 30],
+      "frame_inactive": [23, 24, 30],
+      "frame_incognito": [25, 26, 33],
+      "frame_incognito_inactive": [25, 26, 33],
+      "bookmark_text": [248, 248, 242],
+      "tab_background_text": [248, 248, 242],
+      "tab_background_text_inactive": [248, 248, 242],
+      "tab_background_text_incognito": [248, 248, 242],
+      "tab_background_text_incognito_inactive": [248, 248, 242],
+      "tab_text": [248, 248, 242],
+      "toolbar": [68, 71, 90],
+      "toolbar_button_icon": [248, 248, 242],
+      "omnibox_text": [248, 248, 242],
+      "omnibox_background": [33, 34, 44],
+      "ntp_background": [40, 42, 54],
+      "ntp_link": [139, 233, 253],
+      "ntp_text": [248, 248, 242]
+    },
+    "images": {
+      "theme_toolbar": "images/theme_toolbar_transparent.png",
+      "theme_tab_background": "images/theme_toolbar.png"
+    }
+  }
+}
